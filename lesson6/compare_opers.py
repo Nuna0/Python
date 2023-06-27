@@ -1,0 +1,7 @@
+number = int(input("Введите число: "))
+print(number > 5)
+print(number < 5)
+print(number == 3)
+print(number != 2)
+print(number >= 10)
+print(number <= 10)
