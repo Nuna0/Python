@@ -1,8 +1,9 @@
 a = 10 * 2
 print(a)
 
-another_a = a
+
 a = 10
+another_a = a
 print(another_a)
 my_name = " Tamara"
 my_name = "another name"

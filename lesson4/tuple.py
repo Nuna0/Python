@@ -3,7 +3,7 @@ food = ("Помидоры","Огурцы","Масло")
 print(food)
 print(food[1])
 # food[1] = "кабачки" ошибка нельзя изменять кортеж
-food2 = "apples", #запятая 
+food2 = "apples", "onion"#запятая 
 print(food2)
 
 veg1, veg2, veg3 = food # Распаковка картежа

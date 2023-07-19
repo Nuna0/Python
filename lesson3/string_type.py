@@ -10,8 +10,8 @@ print(title[6:])
 print(title[-9:-1]) # С конца
 print(title[-10:])
 print(title[6:16:2]) #шаг
-print(title[::3])
-print(title[::3])
+print(title[::1])
+print(title[::2])
 print(len(title))
 print(title[len(title) - 1])
 print(title[-1])

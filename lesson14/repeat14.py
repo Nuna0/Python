@@ -12,4 +12,4 @@ student_rating = {
 with open("lesson14/studs.json",'w', encoding="UTF-8") as file:
     json.dump(student_rating, file, indent=2, ensure_ascii=False)
 
-print(json.dumps(student_rating))
+print(json.dumps(student_rating))#?

@@ -1,4 +1,4 @@
-num_list = [x for x in range(1,11)]
+num_list = [x for x in range(1,11) if x != 3]
 print(num_list)
 
 input_nums = [int(input()) for _ in range(4)]

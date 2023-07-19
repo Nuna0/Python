@@ -9,4 +9,4 @@ print(int(5.5))
 # print(int('5.5')) 
 print(int(float(number2)))
 
-print(number1 + int("jhvbj"))
+print(number1 + int("100"))

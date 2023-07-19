@@ -4,6 +4,6 @@ fav_films = {"Форест ГАмп","Джокер","Крид","Брилиант
 
 print("ПЕресечение:", films & fav_films)
 print("Объединение", films | fav_films)
-print("Разность:", films - fav_films)
+print("Разность:", fav_films - films)
 
 

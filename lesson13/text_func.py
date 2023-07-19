@@ -10,7 +10,7 @@
 # my_file.close()
 
 with open('lesson13/file.txt', encoding='UTF-8') as my_file:
-    text = my_file.read(10)
+    text = my_file.read(12)#12-количество символов читаемых с файла
 print(text)
 
 with open('lesson13/file.txt','w', encoding='UTF-8') as my_file:
